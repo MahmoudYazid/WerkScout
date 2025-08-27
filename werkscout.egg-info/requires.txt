@@ -1,0 +1,4 @@
+requests<3,>=2.31
+selenium<5,>=4.18
+webdriver-manager<5,>=4
+undetected-chromedriver<4,>=3.5

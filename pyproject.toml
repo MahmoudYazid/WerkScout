@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "werkscout"
+version = "0.1.0"
+description = "WerkScout - search and email scraping helpers"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "requests>=2.31,<3",
+  "selenium>=4.18,<5",
+  "webdriver-manager>=4,<5",
+  "undetected-chromedriver>=3.5,<4"
+]
+
+[tool.setuptools]
+py-modules = ["ScrapeScript", "searchEngines", "Api", "DbContext"]

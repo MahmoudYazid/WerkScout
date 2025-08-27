@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: werkscout
+Version: 0.1.0
+Summary: WerkScout - search and email scraping helpers
+License: MIT
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: requests<3,>=2.31
+Requires-Dist: selenium<5,>=4.18
+Requires-Dist: webdriver-manager<5,>=4
+Requires-Dist: undetected-chromedriver<4,>=3.5
