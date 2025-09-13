@@ -65,3 +65,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ##  Contact & Learn More
 
 Created by **Mahmoud Yazid**. For questions or issues, open an issue on GitHub or reach out via LinkedIn https://www.linkedin.com/in/mahmoud-yazid/ .
+library link : https://pypi.org/project/werkscout/
